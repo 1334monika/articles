@@ -4,7 +4,7 @@ Welcome to **Hot Topics Hub** – a dynamic repository for articles on today’s
 
 Perfect for developers, researchers, and curious minds, each article is crafted to keep you informed and engaged. Dive in, explore diverse insights, and stay ahead with fresh updates on the topics that matter now! 
 
-[ 1. Cybersecurity ](./CyberSecurity/Cybersecurity.md)
+[ 1. Cybersecurity ](./CyberSecurity/readme.md)
 
 
 ---
