@@ -3,14 +3,14 @@
 ## Introduction
 In today’s interconnected digital world, where cyber threats are increasingly sophisticated, firewalls play a crucial role in protecting personal and organizational data. But what exactly is a firewall? This article aims to simplify the concept of firewalls, making it accessible even for non-technical readers.
 
-![Introduction to Firewalls](https://via.placeholder.com/800x400?text=Introduction+to+Firewalls)
+
 
 ---
 
 ## What is a Firewall?
 A **firewall** is like a security guard for your computer or network. It monitors and controls incoming and outgoing internet traffic based on predetermined security rules. Think of it as a barrier that keeps malicious or unwanted traffic out while allowing safe and legitimate data to pass through.
 
-![Firewall Explanation](https://via.placeholder.com/800x400?text=Firewall+Functionality)
+
 
 ---
 
@@ -20,7 +20,7 @@ Imagine living in a house without a lock on the front door. Without a firewall, 
 - **Monitor traffic:** Keeps track of data coming in and out of your network.
 - **Prevent attacks:** Shields your system from malicious software and cyberattacks.
 
-![Why We Need Firewalls](https://via.placeholder.com/800x400?text=Importance+of+Firewalls)
+
 
 ---
 
@@ -32,7 +32,6 @@ A firewall works by following a set of **rules** to determine whether to allow o
 
 If the data doesn’t meet the firewall’s safety criteria, it is blocked.
 
-![How Firewalls Work](https://via.placeholder.com/800x400?text=How+Firewalls+Work)
 
 ---
 
@@ -50,7 +49,7 @@ If the data doesn’t meet the firewall’s safety criteria, it is blocked.
    - Hosted on the cloud and designed to protect online servers and data.
    - Ideal for businesses using cloud-based services.
 
-![Types of Firewalls](https://via.placeholder.com/800x400?text=Types+of+Firewalls)
+
 
 ---
 
@@ -71,7 +70,6 @@ If the data doesn’t meet the firewall’s safety criteria, it is blocked.
    - Safeguards sensitive customer data from cyberattacks.
    - Ensures secure communication between employees.
 
-![Real-Life Uses of Firewalls](https://via.placeholder.com/800x400?text=Firewall+Usage+Examples)
 
 ---
 
@@ -94,7 +92,7 @@ While firewalls are essential, they are not a one-stop solution. They need to be
 - Antivirus software.
 - Employee training on cybersecurity practices.
 
-![Firewall Limitations](https://via.placeholder.com/800x400?text=Firewall+Limitations)
+
 
 ---
 
@@ -103,7 +101,7 @@ Firewalls are your first line of defense in the digital world. Whether you’re 
 
 Remember, cybersecurity is a shared responsibility—start with a firewall and build your defenses from there!
 
-![Cybersecurity Awareness](https://via.placeholder.com/800x400?text=Cybersecurity+Awareness)
+
 
 ---
 
@@ -113,6 +111,6 @@ We’d love to hear your thoughts or experiences with firewalls. Share your insi
 ---
 
 **Call to Action:**  
-🔗 [Check out more cybersecurity articles in this repository!](#)  
+🔗 [Check out more cybersecurity articles in this repository!](https://github.com/1334monika/articles/tree/69e9da7fdda60c10bac8199afca575f1a8c55e1d/CyberSecurity)  
 🌟 Don’t forget to star this repo if you liked the article!  
-🛡️ Stay secure, stay informed!  
+🛡️ Stay secure, stay informed! 
